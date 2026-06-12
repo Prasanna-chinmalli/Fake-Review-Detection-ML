@@ -9,4 +9,4 @@ A machine learning model to classify reviews as genuine or fake using Natural La
 - Achieved **94% accuracy** on test data  
 
  Tech Stack
-Python, Pandas, NumPy, Scikit-learn, Matplotlib
+Python, Pandas, NumPy, Scikit-learn, Matplotlib.
